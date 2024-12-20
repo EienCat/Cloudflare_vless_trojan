@@ -19,12 +19,12 @@ let IP6 = 'www.visa.com.mt'
 let IP7 = 'qa.visamiddleeast.com'
 
 // https_ip
-let IP8 = 'usa.visa.com'
-let IP9 = 'myanmar.visa.com'
-let IP10 = 'www.visa.com.tw'
-let IP11 = 'www.visaeurope.ch'
-let IP12 = 'www.visa.com.br'
-let IP13 = 'www.visasoutheasteurope.com'
+let IP8 = '730.2024730.us.kg'
+let IP9 = '730.2024730.us.kg'
+let IP10 = '730.2024730.us.kg'
+let IP11 = '730.2024730.us.kg'
+let IP12 = '730.2024730.us.kg'
+let IP13 = '730.2024730.us.kg'
 
 // http_port
 let PT1 = '80'
